@@ -1,0 +1,1 @@
+strategyPattern: 策略模式
